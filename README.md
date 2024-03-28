@@ -1,1 +1,1 @@
-Project E-commerce website 
+Project E-commerce website using MERN stack
